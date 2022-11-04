@@ -1,4 +1,5 @@
 # Arrow-Formation
 Simple Arrow Formation code for swarm systems
- 
-<img src="/img/ss.png" alt="algo" style="height: 500px; align="middle";/>
+<p align="center"> 
+ <img src="/img/ss.png" alt="algo" style="height: 500px; align="middle";/>
+                                                                       </p>
